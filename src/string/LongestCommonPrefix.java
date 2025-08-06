@@ -30,6 +30,7 @@ public class LongestCommonPrefix {
             j++;
         }
         return lcp.toString();
+
     }
 
     public static void main(String[] args) {
